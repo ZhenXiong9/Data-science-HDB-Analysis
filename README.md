@@ -5,7 +5,7 @@ This is the mini project for NTU SC1015 (Introduction to Data Science and Artifi
 # Introduction
 HDB have been a topic of concerns among young adult. Primarly due to Singapore limited land, prices of resale flat can be very compeitive and expensive. According to Straits times, the HDB resale price for the 8 straight month. This project we research into the differnt drivers that drive these HDB resale price. 
 
-![This is an image](image/Introduction.PNG)
+![This is an image](https://github.com/ZhenXiong9/Data-science-HDB-Analysis/tree/main/Image/Introduction.PNG?raw=true)
 
 
 
@@ -38,6 +38,10 @@ We did the following:
 2. We change data such as Month and Year from Object to DateTime to fit our analysis
 3. We also include inflation data so that we can have a more accurate price data
 
+# Exploratory Data Analysis
+
+![This is an image](https://github.com/ZhenXiong9/Data-science-HDB-Analysis/tree/main/Image/EDA1.PNG?raw=true)
+![This is an image](https://github.com/ZhenXiong9/Data-science-HDB-Analysis/tree/main/Image/EDA2.PNG?raw=true)
 
 # Conclusion 
 - We wanted to try other machine learning model such as SVM for Anomaly detection but couldnt due to time constraints
