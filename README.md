@@ -40,13 +40,14 @@ We did the following:
 
 
 # Conclusion 
--We discover that Storey, Flat Type, Total Area and Walking distance from MRT as drivers for HDB Resale Price
--We also discover many other factors we could have included to improve our analysis
+- We wanted to try other machine learning model such as SVM for Anomaly detection but couldnt due to time constraints
+- We discover that Storey, Flat Type, Total Area and Walking distance from MRT as drivers for HDB Resale Price
+- We also discover many other factors we could have included to improve our analysis
   1. BTO Development (The development of BTO around the area will surely affect resale price)
   2. Other Amenities (Amenities such as markets, food centre, schools, health care will affect the resale price as well)
   3. Travelling time to key location (Travelling time to location such as CBD, Town Area and central affect the price)
   4. Year anenities is built (Some amenities are not built when the flat are sold, like many mrt stations are built in the last 3 years. Therefore using MRT as a          driver can be inaccurate)
- -We wanted to try other machine learning model such as SVM for Anomaly detection but couldnt due to time constraints
+ 
   
 
 
